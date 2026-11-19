@@ -1,3 +1,5 @@
+<img width="2400" height="1350" alt="a41baa11-622a-4292-b1aa-480e8ebef077" src="https://github.com/user-attachments/assets/24384b0b-5a27-4850-8783-424c6b1912e0" />
+
 <h1 align="center">WANTED.FUN</h1>
 <p align="center"><b>The memecoin launchpad where the chart earns the heat.</b><br>Climb the curve, earn wanted stars, graduate at three. Dump it and the cops lose you.</p>
 
